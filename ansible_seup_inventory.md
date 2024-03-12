@@ -29,6 +29,11 @@ can verify once transfer the pem file it wil access all the worker nodes
 
 ![image](https://github.com/imtiaz04/Ansible/assets/85178565/7839ded8-99ca-46ca-9fe7-f5543ad9a86b)
 
+need to add in inventory file variables with [servers:vars] so that using pem file private key worker nodes can connect
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/393ba566-cb1c-461d-a0dc-7ef7bdc98f09)
+
+
 we can check the disc spaces on worker nodes
 
 ![image](https://github.com/imtiaz04/Ansible/assets/85178565/5deefaee-946a-4059-b719-3a6670155169)
