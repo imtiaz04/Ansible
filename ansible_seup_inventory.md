@@ -42,6 +42,11 @@ can update all servers all @once
 
 ![image](https://github.com/imtiaz04/Ansible/assets/85178565/4101a2e1-4e93-483f-8c68-417948574a81)
 
+check how long server been created
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/85699762-6138-493d-b66f-4a63e664d289)
+
+
 
 
 
