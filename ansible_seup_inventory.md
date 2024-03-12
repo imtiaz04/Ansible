@@ -25,6 +25,21 @@ After that need to copy the pem file from local to ec2 master server using 'scp'
 
 ![image](https://github.com/imtiaz04/Ansible/assets/85178565/5575c890-8500-4e49-9209-96e5b6769da2)
 
+can verify once transfer the pem file it wil access all the worker nodes
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/7839ded8-99ca-46ca-9fe7-f5543ad9a86b)
+
+we can check the disc spaces on worker nodes
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/5deefaee-946a-4059-b719-3a6670155169)
+
+can update all servers all @once
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/4101a2e1-4e93-483f-8c68-417948574a81)
+
+
+
+
 
 
 
