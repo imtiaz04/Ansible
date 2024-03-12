@@ -46,6 +46,22 @@ check how long server been created
 
 ![image](https://github.com/imtiaz04/Ansible/assets/85178565/85699762-6138-493d-b66f-4a63e664d289)
 
+create inventory based on env
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/9ceae944-7e03-4983-9817-8d05d0c23263)
+
+inventory looks like
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/82d9b114-9785-4249-83ba-c78f0a98079b)
+
+using below command can access only prod environent servers
+
+![image](https://github.com/imtiaz04/Ansible/assets/85178565/c8a277ae-c24e-419a-ade9-8c59468c1f11)
+
+
+
+
+
 
 
 
